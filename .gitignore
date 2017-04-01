@@ -1,0 +1,5 @@
+thos.bin
+thos
+*.o
+boot.s.bak
+tools/*
